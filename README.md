@@ -1,0 +1,2 @@
+# Web_Browser with VPN project of Flutter with APK file 
+ Welcome to MUS_Browser: A Web Browser with Built-in VPN!  Experience a new level of browsing privacy and security with MUS_Browser. Developed with cutting-edge technology, this browser not only provides seamless web surfing but also integrates a powerful VPN for enhanced anonymity and protection. Say goodbye to online restrictions and safeguard your data with MUS_Browser today!
